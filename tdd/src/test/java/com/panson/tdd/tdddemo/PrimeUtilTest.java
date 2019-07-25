@@ -3,10 +3,7 @@ package com.panson.tdd.tdddemo;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * @author: panxing@qbb6.com
- * @date: 2019年07月25日 16:31
- */
+
 public class PrimeUtilTest {
 
 	@Test

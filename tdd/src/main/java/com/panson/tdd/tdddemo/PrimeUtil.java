@@ -2,10 +2,7 @@ package com.panson.tdd.tdddemo;
 
 import java.util.Arrays;
 
-/**
- * @author: panxing@qbb6.com
- * @date: 2019年07月25日 16:34
- */
+
 public class PrimeUtil {
 
 	public static int[] getPrimes(int max) {
